@@ -1,4 +1,4 @@
-"""This is a script that calculatesone number to the power of another.
+"""This is a script that calculate some number to the power of another.
 """
 def to_the power(x, y = 2) :
     result = x
@@ -7,7 +7,7 @@ def to_the power(x, y = 2) :
     return result
 
 x = 9
-y = 8 
+y = 8# 
 print("{0} to the power of {1} is {2}" .format(x, y, to_the_power(x, y)))
 
 
